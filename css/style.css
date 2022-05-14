@@ -39,7 +39,7 @@ h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: 400;}
 
 .wrapper {
     margin: 0 auto;
-    background: url('../assets/png/Vector.png') center no-repeat;
+    background: url('/example-of-site/assets/png/Vector.png') center no-repeat;
     background-size: 100% 100%;
     font-family: 'Montserrat';
     color: #FFFFFF;
